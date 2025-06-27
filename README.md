@@ -1,42 +1,21 @@
-# SmartCart – Real-Time Shopping List App
+# czKr2WhM
 
-SmartCart is a lightweight, real-time shopping list web application developed using **Vanilla JavaScript** and **Firebase Realtime Database**. Designed for simplicity and speed, it lets users add and remove items with instant cloud sync across devices.
+Quick start:
 
----
+```
+$ npm install
+$ npm start
+````
 
-## Features
+Head over to https://vitejs.dev/ to learn more about using vite
+## About Scrimba
 
-- Real-time item synchronization via Firebase
-- Add items dynamically
-- Click-to-delete functionality
-- Fully responsive and mobile-friendly
-- Built with pure JavaScript (no frameworks)
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
----
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-## Tech Stack
-
-| Technology     | Purpose                        |
-|----------------|--------------------------------|
-| HTML           | Page structure                 |
-| CSS            | Styling and responsiveness     |
-| JavaScript     | Application logic (Vanilla JS) |
-| Firebase DB    | Real-time backend database     |
-
----
-
-## UI Preview
-
-![output](https://github.com/user-attachments/assets/eaff6857-11c4-4d32-a632-01fea88d39a7)
-
-
----
-
-## How It Works
-
-1. User types item name and clicks “Add”.
-2. Item is pushed to Firebase Realtime Database.
-3. Items sync instantly across any open device.
-4. Clicking on an item deletes it from the DB and UI.
-
----
+Happy Coding!
